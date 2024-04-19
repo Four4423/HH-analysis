@@ -16,3 +16,6 @@ skills - необходимые навыки <br />
 employer - название компании <br />
 area - город <br />
 description - описание вакансии <br />
+<br />
+
+![alt text](https://github.com/Four4423/HH.ru-analysis/blob/main/hh_power_bi.jpg?raw=true)
